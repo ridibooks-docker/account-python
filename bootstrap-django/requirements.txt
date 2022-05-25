@@ -24,7 +24,7 @@ kombu==4.6.7
 mysqlclient==1.4.6
 Naked==0.1.31
 pipenv==2018.10.13
-PyJWT==1.6.1
+PyJWT==2.4.0
 PyPika==0.35.16
 python-dateutil==2.7.5
 python-json-logger==0.1.8
